@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 哒哒哒
+![](https://raw.githubusercontent.com/clemente0420/clemente0420/main/assets/github-contribution-grid-snake.svg)              
 
 <!--
 **clemente0420/clemente0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
