@@ -3,6 +3,13 @@
 
 ![](https://raw.githubusercontent.com/clemente0420/clemente0420/main/assets/github-contribution-grid-snake.svg)              
 
+
+### My GitHub Stats
+
+![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1cardo&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1cardo&layout=compact)
+
+
 <!--
 **clemente0420/clemente0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
